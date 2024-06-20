@@ -13,7 +13,7 @@ Food classification is a challenging problem due to the large number of categori
 - **data**: Contains the best model and also loss values.
 - **Custom_CNN_part (2).ipynb**: Notebook for training the custom CNN model.
 - **Dataset_and_features_BoW.ipynb**: Notebook for the traditional machine learning approach using BoW.
-- **SupervisedReport.pdf**: Detailed project report. [Click here to view the report](./SupervisedReport.pdf)
+- **SupervisedReport.pdf**: Detailed project [report](./SupervisedReport.pdf).
 - **best_model_training.ipynb**: Notebook for training the CNN model that performed the best.
 
 ## Best Model's Performance
