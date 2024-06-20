@@ -18,7 +18,8 @@ Food classification is a challenging problem due to the large number of categori
 
 ## Best Model's Performance
 
-Some classes were not predicted at all. 
+(Some classes were not predicted at all. Marble cake class is the least represented in the dataset.)
+Here we provide the onformation on the best model's performance and what classes were not predicted by the model at all.
 
 #### Training Set
 - **Class 162 - Marble Cake**
