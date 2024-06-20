@@ -18,7 +18,7 @@ Food classification is a challenging problem due to the large number of categori
 
 ## Best Model's Performance
 
-### Classes with No Predictions
+Some classes were not predicted at all. 
 
 #### Training Set
 - **Class 162 - Marble Cake**
